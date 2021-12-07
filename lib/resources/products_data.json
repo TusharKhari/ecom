@@ -1,0 +1,79 @@
+[
+        {
+          "name": "blazer",
+          "picture": "https://i.ibb.co/DwdwyF4/blazer1.jpg",
+          "old_price": "120",
+          "price": "85",
+          "product_detail": "this is a men's blazer"
+        },
+        {
+          "name": "blazer",
+          "picture": "https://i.ibb.co/TKD8JQF/blazer2.jpg",
+          "old_price": "150",
+          "price": "90",
+          "product_detail": "this is a women's blazer"
+        },
+        {
+          "name": "red dress",
+          "picture": "https://i.ibb.co/HnqYbWT/dress1.jpg",
+          "old_price": "100",
+          "price": "55",
+          "product_detail": "this is a red dress"
+        },
+        {
+          "name": "brown hills",
+          "picture": "https://i.ibb.co/Fqbng6m/hills1.jpg",
+          "old_price": "95",
+          "price": "50",
+          "product_detail": "pair of brown hills"
+        },
+        {
+          "name": "red hills",
+          "picture": "https://i.ibb.co/h74RD62/hills2.jpg",
+          "old_price": "135",
+          "price": "65",
+          "product_detail": "pair of red hills"
+        },
+        {
+          "name": "lower",
+          "picture": "https://i.ibb.co/yfss7SP/pants1.jpg",
+          "old_price": "125",
+          "price": "58",
+          "product_detail": "comfortable black lower"
+        },
+        {
+          "name": "lower",
+          "picture": "https://i.ibb.co/f0M3KqH/pants2.jpg",
+          "old_price": "145",
+          "price": "68",
+          "product_detail": "comfortable grey lower"
+        },
+        {
+          "name": "shoes",
+          "picture": "https://i.ibb.co/6FfM2JJ/shoe1.jpg",
+          "old_price": "128",
+          "price": "61",
+          "product_detail": "pair of grey color shoes"
+        },
+        {
+          "name": "skirt",
+          "picture": "https://i.ibb.co/NW9jKmh/skt1.jpg",
+          "old_price": "158",
+          "price": "72",
+          "product_detail": "flower design sky blue skirt "
+        },
+        {
+          "name": "skirt",
+          "picture": "https://i.ibb.co/RS80f2N/skt2.jpg",
+          "old_price": "168",
+          "price": "81",
+          "product_detail": "plain pink skirt"
+        },
+        {
+          "name": "black dress",
+          "picture": "https://i.ibb.co/gP6DKHd/dress2.jpg",
+          "old_price": "130",
+          "price": "65",
+          "product_detail": "this is a black dress"
+        }
+      ]
