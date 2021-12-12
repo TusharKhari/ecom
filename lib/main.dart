@@ -212,7 +212,7 @@ class MainScreen extends StatelessWidget {
             HorizontalList(),
             //Category(),
             Text(
-              'Recent Products',
+              'Recent Products by vs code',
               style: TextStyle(fontWeight: FontWeight.bold, fontSize: 20),
             ),
 
